@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto Dial</string>
+    <string name="enter_your_pin">Enter your password</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="preference_file_key" translatable="false">preference_file_key</string>
+    <string name="preference_auth_token" translatable="false">preference_auth_token</string>
+    <string name="err_msg_phone">Required!</string>
+    <string name="err_msg_pin">Required!</string>
+    <string name="err_msg_pin_length">Your password is too short</string>
+</resources>
